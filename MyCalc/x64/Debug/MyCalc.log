@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(466): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(468): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(476): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(478): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(496): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\abramovoa\desktop\lab04\lab04\mycalc\MyForm.h(498): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyCalc.vcxproj -> C:\Users\abramovoa\Desktop\Lab04\lab04\x64\Debug\MyCalc.exe

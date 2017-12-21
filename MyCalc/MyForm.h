@@ -515,11 +515,18 @@ private:
 private: 
 	System::Void SubBtn_Click(System::Object^  sender, System::EventArgs^  e) 
 	{
-		String ^ expr_buf = ExprText->Text;
+		if (ExprText->Text == "")
+			ExprText->Text = "-";
+		else
+		{
 
-		ExprText->Text = "";
-		buf = expr_buf;
-		sub = true;
+			String ^ expr_buf = ExprText->Text;
+
+			ExprText->Text = "";
+			buf = expr_buf;
+			sub = true;
+		}
+
 	}
 private: 
 	System::Void MultBtn_Click(System::Object^  sender, System::EventArgs^  e) 
