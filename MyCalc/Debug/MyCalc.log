@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(466): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(468): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(476): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(478): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(496): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\desktop\lab3_tp\mycalc\mycalc\MyForm.h(498): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyCalc.vcxproj -> C:\Users\Сергей\Desktop\LAB3_TP\MyCalc\Debug\MyCalc.exe
